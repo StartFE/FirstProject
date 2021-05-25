@@ -6,7 +6,7 @@ title: Jobs
 <div  class="uk-margin uk-card uk-card-default uk-card-body">
 {% for job in site.jobs %}
   <h2>
-    <a href="/jobs{{ job.url }}">
+    <a href="{{ job.url }}">
       {{ job.title }}
     </a>
   </h2>

@@ -1,3 +1,4 @@
+baseurl: /jobs
 collections:
   jobs:
     output: true
