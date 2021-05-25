@@ -2,8 +2,8 @@
 {% for job in site.jobs %}
   <h2>
     <a href="{{ job.url }}">
-      {{ job.name }} - {{ job.position }}
+      {{ job.title }}
     </a>
   </h2>
-  <p>{{ job.content | markdownify }}</p>
+  <p>{{ job.description | markdownify }}</p>
 {% endfor %}
