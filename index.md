@@ -1,10 +1,9 @@
-<span>Jobs listing:</span>
-<ul>
-    {% for job in site.data.jobs %}
-    <li>
-        <h2>Title: {{ job.title }}</h2>
-        <p>Description: {{ job.description }}</p>
-        <span>Published: {{ job.published }}</span>
-    </li>
-    {% endfor %}    
-</ul>
+<h1>Jobs listing:</h1>
+{% for job in site.jobs %}
+  <h2>
+    <a href="{{ job.url }}">
+      {{ job.name }} - {{ job.position }}
+    </a>
+  </h2>
+  <p>{{ job.content | markdownify }}</p>
+{% endfor %}
