@@ -1,3 +1,2 @@
 collections:
-  jobs:
-    output: true
+  - jobs
