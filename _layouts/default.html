@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Jobs : {{ page.title }}</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.6.22/dist/css/uikit.min.css" />
+    </head>
+    <body>
+        <h1>{{ page.title }}</h1>
+        <ul class="uk-breadcrumb">
+            <li><a href="/">Job Listing</a></li>
+            <li><a href="#">{{ page.title }}</a></li>
+        </ul>
+        <section>
+            {{ content }}
+        </section>
+        <footer class="uk-flex uk-flex-center">
+            &copy; to me
+        </footer>
+    </body>
+</html>
