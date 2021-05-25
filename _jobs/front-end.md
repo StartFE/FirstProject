@@ -2,6 +2,7 @@
 title: Front End Developer
 description: Short description content for this job title
 published: 2021-05-20
+layout: default
 ---
 
 # Front End Jobs Description

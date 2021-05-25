@@ -2,6 +2,7 @@
 title: DB Developer
 description: Short description content for this job title
 published: 2021-05-20
+layout: default
 ---
 
 # DB Jobs Description
