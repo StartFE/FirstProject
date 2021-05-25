@@ -2,7 +2,6 @@
 title: Jobs
 
 ---
-{% include breadcrumbs.html %}
 <h1>Jobs listing:</h1>
 <div  class="uk-margin uk-card uk-card-default uk-card-body">
 {% for job in site.jobs %}
