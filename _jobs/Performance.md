@@ -1,11 +1,11 @@
 ---
-title: Java Developer
+title: Performance Testing
 description: Short description content for this job title
 published: 2021-05-20
 layout: default
 ---
 
-# Java Jobs Description
+# Performance Testing Jobs Description
 
 We are an engineering company building products that enable agile companies to implement enterprises grade, no-code solutions for data processing, social workforce performance management and citizen app development for mobile and the web. While being present in Iasi for more than 15 years, for the last couple of years we are having a fresh start building a suite of innovative new products.
 
@@ -18,9 +18,13 @@ We are looking for a junior Java Developer who will collaborate and grow with a 
  - Self-motivated – You’ve figured out how to continuously develop yourself and meet certain standards which help your daily work.
 
 ## This is what you’ve done:
- - worked with and have a good understanding of how to use JavaScript, CSS and HTML in your projects.
- - played with at least one of the modern JS Frameworks like Angular, React or Vue.js.
- - have a good understanding of how the web works.
+-Design Performance Test Scripts for enterprise applications based on Requirements
+-Participate in Performance bottleneck analysis and fixes
+-Perform Performance Engineering & Performance Improvement activities
+-Run and manage performance test campaigns
+-Communicate progress and issues through regular Status Reports
+-Collaborate with Business/ Application teams to improve system performance
+-Assume primary responsibility as Performance Testing SPOC
 
 ## This is us:
  - Entrepreneurial — An entrepreneurial culture where you are encouraged to try new ideas and to quickly fail in the spirit of innovation and continuous improvement.
